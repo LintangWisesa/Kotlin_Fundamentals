@@ -11,4 +11,8 @@ fun main(args: Array<String>) {
     
     println(kata1)
     println(kata2)
+
+    // String interpolation
+    println("Halo $kata1 $kata2")
+    println("Jumlah huruf di kata1 = ${kata1.length}")
 }

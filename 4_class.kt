@@ -4,10 +4,17 @@ fun main(args: Array<String>) {
     
     var myObject = myClass()
     myObject.myFunction(nama)
+    println(myObject.pesan)
 }
 
+// create class
 class myClass {
+
+    // variable inside a class
+    var pesan = "Selamat datang!"
+
+    // function inside a class
     fun myFunction(x: String){
-        print("Halo " + x)
+        println("Halo " + x)
     }
 }
