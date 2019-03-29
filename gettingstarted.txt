@@ -1,0 +1,14 @@
+
+RUN KOTLIN IN VISUAL STUDIO CODE TERMINAL
+
+1. Unduh Kotlin compiler: https://github.com/JetBrains/kotlin/releases/tag/v1.3.21
+
+2. Extract lalu copy folder "kotlinc" ke Program Files
+
+3. Copy path "C:\Program Files\kotlinc\bin"! 
+
+4. go to System > Advanced System Settings > Environment Variables lalu di area System Variables > Path
+   klik edit, new & paste "C:\Program Files\kotlinc\bin"!
+
+5. Di VScode, unduh extension: Kotlin & Code Runner! 
+   Untuk menjalankan kotlin code, cukup click tombol run(play) di sudut code editor
