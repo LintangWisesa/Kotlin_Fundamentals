@@ -1,3 +1,4 @@
+https://www.programiz.com/kotlin-programming
 
 RUN KOTLIN IN VISUAL STUDIO CODE TERMINAL
 
@@ -11,4 +12,4 @@ RUN KOTLIN IN VISUAL STUDIO CODE TERMINAL
    klik edit, new & paste "C:\Program Files\kotlinc\bin"!
 
 5. Di VScode, unduh extension: Kotlin & Code Runner! 
-   Untuk menjalankan kotlin code, cukup click tombol run(play) di sudut code editor
+   Untuk menjalankkan kotlin code, cukup click tombol run(play) di sudut code editor

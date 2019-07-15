@@ -2,6 +2,7 @@ fun main(args: Array<String>) {
     tambah()
     kali(3,4)
     println(bagi(25,5))
+    tes(y = 3)
 }
 
 // function with an argument
@@ -19,4 +20,9 @@ fun kali(a:Int, b:Int){
 // return function
 fun bagi(a:Int, b:Int):Int {
     return a/b
+}
+
+// named argument function
+fun tes(x: Int = 20, y: Int = 2){
+    print("Named argument result: ${x * y}")
 }

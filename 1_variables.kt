@@ -19,4 +19,7 @@ fun main(args: Array<String>) {
     println(berat)
     println(nikah)
     println(sex)
+
+    var number: Double = 196.0
+    print("Result = ${Math.sqrt(number)}")
 }
